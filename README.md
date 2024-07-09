@@ -1,1 +1,1 @@
-## This project focuses on tackling the growing challenges of differentiate between AI -generated and Human- generate content in today's digital landscape.
+## This project focuses on tackling the growing challenges of differentiate between AI -generated and Human- generate content in today's digital landscape.[link](https://github.com/MadhuRao07/Capstone-Project/blob/main/improved_final_capstone.ipynb)
